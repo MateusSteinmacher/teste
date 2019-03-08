@@ -1,0 +1,26 @@
+            <style type="text/css">
+h1{ color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
+        }
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    }
+    .blue{
+        color:#9E00FF;
+        }
+        /* Quando usamos # estamos criando um identificador para o html. Podemos usar o identificador somente uma vez no código
+        */
+#tit2{
+    color: #280040;
+}
+.fundolaranja{
+    background: orange;
+    margin: 3px;
+}
+.fundopreto{
+    background: black;
+    color: white;
+}
+    </style>
